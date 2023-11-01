@@ -37,5 +37,13 @@
  </div>
  
 *************************************
+The following video shows how the system works.
+
  <img src="https://github.com/salehalkhalafat/Automated-Inventory-Management/blob/main/Sample-Data/Test-Sample.gif">
+
+ **********************************************
+ ## Conclusion and Results
+ In conclusion, the development this project marks a significant step towards streamlining inventory control processes. While the system shows promise in improving efficiency and accuracy, it is important to acknowledge that it is not yet a finished product. There is still much work to be done to fully realize its potential.
+
+The system, in its current state, addresses many key aspects of inventory management, but there are areas that require further development and refinement. Future work should focus on enhancing user interface design for better usability, optimizing algorithms for more precise forecasting, and expanding its compatibility with various hardware and software platforms.
 

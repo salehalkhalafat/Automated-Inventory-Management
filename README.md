@@ -37,4 +37,5 @@
  </div>
  
 *************************************
+ <img src="https://github.com/salehalkhalafat/Automated-Inventory-Management/blob/main/Sample-Data/Test-Sample.gif">
 

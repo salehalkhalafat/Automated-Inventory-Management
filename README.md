@@ -65,14 +65,14 @@ This is a high-level overview of the architecture and design considerations for 
  
  ### Results
  <div align="center">
- <img src="https://github.com/salehalkhalafat/Automated-Inventory-Management/blob/main/Sample-Data/confusion_matrix.png" width="500" height="350">
- <img src="https://github.com/salehalkhalafat/Automated-Inventory-Management/blob/main/Sample-Data/results.png" width="500" height="350" >
+ <img src="https://github.com/salehalkhalafat/Automated-Inventory-Management/blob/main/Sample-Data/confusion_matrix.png" width="400" height="350">
+ <img src="https://github.com/salehalkhalafat/Automated-Inventory-Management/blob/main/Sample-Data/results.png" width="400" height="350" >
  </div>
  
  ### Test samples
   <div align="center">
- <img src="https://github.com/salehalkhalafat/Automated-Inventory-Management/blob/main/Sample-Data/AIM1.jpeg" width="500" height="350">
- <img src="https://github.com/salehalkhalafat/Automated-Inventory-Management/blob/main/Sample-Data/AIM5.jpeg" width="500" height="350" >
+ <img src="https://github.com/salehalkhalafat/Automated-Inventory-Management/blob/main/Sample-Data/AIM1.jpeg" width="400" height="350">
+ <img src="https://github.com/salehalkhalafat/Automated-Inventory-Management/blob/main/Sample-Data/AIM5.jpeg" width="400" height="350" >
  </div>
  
 *************************************
